@@ -6,3 +6,6 @@ Enterprise IT support systems handle massive volumes of service tickets that are
 
 # Link of Demo Video:
 https://youtu.be/bMXHJZCbuH0
+
+# Link of InsightBot PPT:
+https://github.com/pengyuan0106/InsightBot/blob/main/InsightBot_Demo_Introduction.pptx
